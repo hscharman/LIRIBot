@@ -22,25 +22,25 @@ Each command should be run in node.
 
 node liri.js spotify-this-song <song name>
 
-![Spotify Demo](./spotify_demo.png)
+![Spotify Demo](spotify_demo.png)
 
 2. To search for a movie: 
 
 node liri.js movie-this <movie title>
 
-![Movie Demo](./omdb_demo.png)
+![Movie Demo](omdb_demo.png)
 
 3. To look up a band and see upcoming concert dates: 
 
 node liri.js concert-this <band or artist name>
 
-![Concert Demo](./bands_demo.png)
+![Concert Demo](bands_demo.png)
 
 4. To use data from an external text document for any of the above commands. This will pull text from the random.txt file in the project. Feel free to edit its contents to change what will be displayed when you run the command in node. 
 
 node liri.js do-what-it-says 
 
-![Do What it Says Demo](./dowhat_demo.png)
+![Do What it Says Demo](dowhat_demo.png)
 
 5. To see a deployed version of the app, please visit [GitHub](https://hscharman.github.io/LIRIBot/) . 
 
