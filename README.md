@@ -22,7 +22,8 @@ Each command should be run in node.
 
 node liri.js spotify-this-song <song name>
 
-![Spotify Demo](spotify_demo.png)
+<img width="746" alt="spotify_demo" src="https://user-images.githubusercontent.com/53710485/71858041-edc47100-30a6-11ea-8748-6b7918ec9cb7.PNG">
+
 
 2. To search for a movie: 
 
