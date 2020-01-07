@@ -36,13 +36,15 @@ node liri.js movie-this <movie title>
 
 node liri.js concert-this <band or artist name>
 
-![Concert Demo](bands_demo.png)
+<img width="503" alt="bands_demo" src="https://user-images.githubusercontent.com/53710485/71858193-89ee7800-30a7-11ea-963b-43ad2b45a60d.PNG">
+
 
 4. To use data from an external text document for any of the above commands. This will pull text from the random.txt file in the project. Feel free to edit its contents to change what will be displayed when you run the command in node. 
 
 node liri.js do-what-it-says 
 
-![Do What it Says Demo](dowhat_demo.png)
+<img width="734" alt="dowhat_demo" src="https://user-images.githubusercontent.com/53710485/71858208-98d52a80-30a7-11ea-8900-fc74a9b73969.PNG">
+
 
 5. To see a deployed version of the app, please visit [GitHub](https://hscharman.github.io/LIRIBot/) . 
 
