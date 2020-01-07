@@ -29,7 +29,8 @@ node liri.js spotify-this-song <song name>
 
 node liri.js movie-this <movie title>
 
-![Movie Demo](omdb_demo.png)
+<img width="713" alt="omdb_demo" src="https://user-images.githubusercontent.com/53710485/71858133-59a6d980-30a7-11ea-968a-d862b18feea9.PNG">
+
 
 3. To look up a band and see upcoming concert dates: 
 
