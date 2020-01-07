@@ -46,7 +46,7 @@ Each command should be run in node.
 <img width="734" alt="dowhat_demo" src="https://user-images.githubusercontent.com/53710485/71858208-98d52a80-30a7-11ea-8900-fc74a9b73969.PNG">
 
 
-5. To see a deployed version of the site, please click [here](https://hscharman.github.io/LIRIBot/) . 
+5. To see a deployed version of the site, please click [here](https://hscharman.github.io/LIRIBot/). 
 
 
 
