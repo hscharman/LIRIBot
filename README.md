@@ -1,5 +1,5 @@
 # LIRI Bot
-This application is copycat of iPhone's SIRI. The difference is that, while SIRI interpret's speech, LIRI interprets written language. 
+This application is a copycat of iPhone's SIRI. The difference is that, while SIRI interpret's speech, LIRI interprets written language. 
 
 LIRI Bot is a command line Node application that takes in a user's parameters and returns data. LIRI Bot works with three different API's...
 
